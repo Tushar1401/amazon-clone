@@ -1,14 +1,14 @@
 import firebase from "firebase";
 
 const firebaseApp = firebase.initializeApp({
-    apiKey: "AIzaSyARtmOaLK1NWn3o5OmC7DI2skxpSo2dYzc",
-    authDomain: "clone-aea50.firebaseapp.com",
-    databaseURL: "https://clone-aea50.firebaseio.com",
-    projectId: "clone-aea50",
-    storageBucket: "clone-aea50.appspot.com",
-    messagingSenderId: "177925197327",
-    appId: "1:177925197327:web:b8bc37d2ddbac6f5bd9d7a",
-    measurementId: "G-NGLXC30S9M"
+    apiKey: "Put your own ones",
+    authDomain: "Put your own one",
+    databaseURL: "Put your own one",
+    projectId: "Put your own one",
+    storageBucket: "Put your own one",
+    messagingSenderId: "Put your own one",
+    appId: "Put your own one",
+    measurementId: "Put your own one"
 });
 
 const auth = firebase.auth();
